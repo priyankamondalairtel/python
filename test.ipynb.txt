@@ -1,0 +1,4 @@
+import numpy as np  # optional
+import pandas as pd
+mylist = list('abcdefghijkl')
+print(mylist)
